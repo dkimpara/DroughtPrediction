@@ -1,4 +1,4 @@
-#AccessibleDroughtPrediction
+# AccessibleDroughtPrediction
 
 Predicting drought from widely available meteorological data. 
 
